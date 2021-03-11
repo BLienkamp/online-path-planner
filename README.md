@@ -1,2 +1,3 @@
-# online-path-planner
-This project contains the code for my master thesis
+# This project contains the code for my masters thesis.
+
+"# Online-Path-Planner" 
